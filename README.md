@@ -79,3 +79,24 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 ## 📄 License
 
 MIT License
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot1.jpg" width="48%">
+  <img src="screenshots/Screenshot2.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot3.jpg" width="48%">
+  <img src="screenshots/Screenshot4.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot5.jpg" width="48%">
+  <img src="screenshots/Screenshot6.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot7.jpg" width="70%">
+</p>
